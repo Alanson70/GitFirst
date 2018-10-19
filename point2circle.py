@@ -1,3 +1,5 @@
+#this program checks if point belongs to circle
+
 x1=int(input('Введите координату х для точки O'))
 y1=int(input('Введите координату у для точки O'))
 x2=int(input('Введите координату х для точки A'))
